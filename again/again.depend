@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1671509950 source:c:\users\brzoz\desktop\programy\roboty\again\main.cpp
+	<fstream>
+	<iostream>
+	<math.h>
+
